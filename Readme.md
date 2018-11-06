@@ -27,3 +27,12 @@ Para poder contribuir a la documentación debes:
 
 ##
 ![enter image description here](https://intelldynamix.com/assets/images/logo/productos/Logo_iDyn_ERP.png)
+
+![enter image description here](https://intelldynamix.com/assets/images/logo/productos/Logo_eBiz.png)
+
+![enter image description here](https://intelldynamix.com/assets/images/logo/productos/Logo_KitchenView.png)
+
+![enter image description here](https://intelldynamix.com/assets/images/logo/productos/Logo_CinemaPos.png)
+
+![enter image description here](https://intelldynamix.com/assets/images/logo/productos/Logo_ToolBox.png)
+
